@@ -3,7 +3,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jine99&fontSize=40&fontAlign=88&fontAlignY=40&desc=@khkcejkms1&descAlign=88&color=gradient)
 
 
-### Studying
+### Currently Working On
   
 <img alt="CPP" src ="https://img.shields.io/badge/C%2B%2B-00599C.svg?&style=for-the-badge&logo=c%2B%2B&&logoColor=white"/>
 <img alt="Csharp" src ="https://img.shields.io/badge/C%23-39477F.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/>
